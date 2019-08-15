@@ -1,0 +1,22 @@
+{
+  "name": "arima-forecaster",
+  "version": "1.0.0",
+  "description": "An simplistic, time series forecaster built with Flask, jQuery, ChartJS, and HTML",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dylankfernandes/arima-forecaster.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dylankfernandes/arima-forecaster/issues"
+  },
+  "homepage": "https://github.com/dylankfernandes/arima-forecaster#readme",
+  "dependencies": {
+    "chart.js": "^2.8.0"
+  }
+}
